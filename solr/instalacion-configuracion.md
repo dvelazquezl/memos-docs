@@ -1,0 +1,1 @@
+> Las instrucciones para la instalacion y configuracion estan detalladas en el archivo Readme del projecto [memos-search-server](https://bitbucket.org/tfg-workspace/memos-search-server/src/main/README.md).

@@ -1,1 +1,1 @@
-> Las instrucciones para desarrollo local y despliegue a producción estan detalladas en el archivo Readme del projecto [memos-backend](https://bitbucket.org/tfg-workspace/memos-backend/src/main/README.md).
+> Las instrucciones para desarrollo local y despliegue a producción estan detalladas en el archivo Readme del projecto [memos-backend](https://github.com/dvelazquezl/memos-api/blob/main/README.md).
